@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="LAB_01_AMAEOS\LAB_01_AMAEOS\Source Files\main.c">
+<ExpandedNodeIds>
+<v>LAB_01_AMAEOS</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\TopDesign</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\LAB_01_AMAEOS.cydwr</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\LAB_01_AMAEOS.cydwr\Pins</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\LAB_01_AMAEOS.cydwr\Analog</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\LAB_01_AMAEOS.cydwr\Clocks</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\LAB_01_AMAEOS.cydwr\Interrupts</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\LAB_01_AMAEOS.cydwr\DMA</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\LAB_01_AMAEOS.cydwr\System</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\LAB_01_AMAEOS.cydwr\Directives</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\LAB_01_AMAEOS.cydwr\Flash Security</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\LAB_01_AMAEOS.cydwr\EEPROM</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\Header Files</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\Header Files\cyapicallbacks.h</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\Source Files</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\Source Files\main.c</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\Generated_Source</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\Generated_Source\PSoC5</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>LAB_01_AMAEOS</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>LAB_01_AMAEOS</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\TopDesign</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds />
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>LAB_01_AMAEOS</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\Listing Files\Green_LED.lst</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\Listing Files\ISR_1ms.lst</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\Listing Files\ISR_2s.lst</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\Listing Files\Red_LED.lst</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\Listing Files\Timer_1ms.lst</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\Listing Files\Timer_1ms_PM.lst</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\Listing Files\Timer_2s.lst</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\Listing Files\Timer_2s_PM.lst</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_BOOT.lst</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_INT.lst</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_IntClock.lst</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_PM.lst</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\Listing Files\Yellow_LED.lst</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\LAB_01_AMAEOS.elf</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\LAB_01_AMAEOS.hex</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CortexM3\ARM_GCC_541\Debug\LAB_01_AMAEOS.map</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\LAB_01_AMAEOS.gpdsc</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\LAB_01_AMAEOS.rpt</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\LAB_01_AMAEOS_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds />
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>LAB_01_AMAEOS</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\PSoC 5LP Architecture TRM</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\CY8C58LP Family Datasheet</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\System Reference Guides</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\System Reference Guides\cy_boot_v6_10</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\cy_clock_v2_20</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\cy_clock_v2_20\cy_clock_v2_20.pdf</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\cy_isr_v1_71</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\cy_isr_v1_71\cy_isr_v1_71.pdf</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\cy_pins_v2_20</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\Timer_v2_80</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\Timer_v2_80\Timer_v2_80.pdf</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\UART_v2_50.pdf</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\ZeroTerminal</v>
+<v>LAB_01_AMAEOS\LAB_01_AMAEOS\ZeroTerminal\ZeroTerminal.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds />
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\LAB_01_AMAEOS.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\LAB_01_AMAEOS.cydsn\main.c" />
+<name v=".\LAB_01_AMAEOS.cydsn\LAB_01_AMAEOS.cydwr" />
+<name v=".\LAB_01_AMAEOS.cydsn\Generated_Source\PSoC5\CyLib.c" />
+<name v=".\LAB_01_AMAEOS.cydsn\Generated_Source\PSoC5\cytypes.h" />
+<name v=".\LAB_01_AMAEOS.cydsn\Generated_Source\PSoC5\core_cm3.h" />
+<name v=".\LAB_01_AMAEOS.cydsn\Generated_Source\PSoC5\Timer_1ms.c" />
+<name v=".\LAB_01_AMAEOS.cydsn\Generated_Source\PSoC5\CyLib.h" />
+<name v=".\LAB_01_AMAEOS.cydsn\Generated_Source\PSoC5\Red_LED.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="955, 505" SelectedTabbedMdiWindow="577bce35-175b-4a6a-8d19-022db07cfa08"><DocumentWindow Key="C:\Users\shwet\Documents\PSoC Creator\LAB_01_AMAEOS\LAB_01_AMAEOS.cydsn\TopDesign\TopDesign.cysch" Guid="577bce35-175b-4a6a-8d19-022db07cfa08" /><DocumentWindow Key="C:\Users\shwet\Documents\PSoC Creator\LAB_01_AMAEOS\LAB_01_AMAEOS.cydsn\main.c" Guid="ef99a0d9-833e-4648-b55f-acfd87830d7e" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="15cc3bcf-8663-4fff-bc1d-3823a7c19895" /><DocumentWindow Key="C:\Users\shwet\Documents\PSoC Creator\LAB_01_AMAEOS\LAB_01_AMAEOS.cydsn\LAB_01_AMAEOS.cydwr" Guid="ddb99e86-34a5-445f-8011-ca04c31a9ae5" /><DocumentWindow Key="C:\Users\shwet\Documents\PSoC Creator\LAB_01_AMAEOS\LAB_01_AMAEOS.cydsn\Generated_Source\PSoC5\CyLib.c" Guid="b98e8b38-77bb-419d-8091-6ad78cdb5544" /><DocumentWindow Key="C:\Users\shwet\Documents\PSoC Creator\LAB_01_AMAEOS\LAB_01_AMAEOS.cydsn\Generated_Source\PSoC5\cytypes.h" Guid="93c16403-5d94-4573-a1fd-fb2aadcb2555" /><DocumentWindow Key="C:\Users\shwet\Documents\PSoC Creator\LAB_01_AMAEOS\LAB_01_AMAEOS.cydsn\Generated_Source\PSoC5\core_cm3.h" Guid="1e8246e6-a95f-415e-ae79-4ca109048a84" /><DocumentWindow Key="C:\Users\shwet\Documents\PSoC Creator\LAB_01_AMAEOS\LAB_01_AMAEOS.cydsn\Generated_Source\PSoC5\Timer_1ms.c" Guid="08ef3ba4-1878-4ca3-b9ee-5a107a0e0871" /><DocumentWindow Key="C:\Users\shwet\Documents\PSoC Creator\LAB_01_AMAEOS\LAB_01_AMAEOS.cydsn\Generated_Source\PSoC5\CyLib.h" Guid="4b34f957-ee87-42b7-baaf-6ce567c65927" /><DocumentWindow Key="C:\Users\shwet\Documents\PSoC Creator\LAB_01_AMAEOS\LAB_01_AMAEOS.cydsn\Generated_Source\PSoC5\Red_LED.c" Guid="e9f19b1f-b812-453e-a195-957bb35e11cd" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
