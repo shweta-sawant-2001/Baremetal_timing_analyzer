@@ -54,3 +54,35 @@ typedef struct
     void (*pin_on)(void);
     void (*pin_off)(void);
 } TimingAnalyzer;
+
+
+## Design Principles
+
+- Encapsulation using structs
+- Explicit state handling (running / paused / stopped)
+- Hardware abstraction via function pointers
+- Modular API designed for reuse in firmware projects
+
+---
+
+## Measurement Modes
+
+| Mode | Description |
+|------|------------|
+| `DWT_CYCLE_COUNTER` | High precision CPU cycle measurement |
+| `DWT_CYCLE_COUNTER_OUTPUT_PIN` | Cycle counter + GPIO toggle |
+| `SYSTICK_TIMER` | 1 ms resolution timing |
+| `SYSTICK_OUTPUT_PIN` | SysTick + GPIO toggle |
+| `OUTPUT_PIN_ONLY` | External logic analyzer measurement only |
+
+---
+
+## API Overview
+
+```c
+timing_analyzer_create(mode, pin, name);
+timing_analyzer_start(&analyzer);
+timing_analyzer_pause(&analyzer);
+timing_analyzer_resume(&analyzer);
+timing_analyzer_stop(&analyzer);
+print_analyzer_status(&analyzer);
