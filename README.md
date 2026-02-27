@@ -30,7 +30,6 @@ The framework supports multiple analyzers running in parallel and follows object
 ## Hardware Platform
 
 - MCU: PSoC 5LP
-- CPU Clock: 24 MHz
 - SysTick interval: 1 ms
 - DWT cycle counter enabled
 - UART used for logging
