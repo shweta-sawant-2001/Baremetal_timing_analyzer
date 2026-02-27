@@ -54,7 +54,7 @@ typedef struct
     void (*pin_on)(void);
     void (*pin_off)(void);
 } TimingAnalyzer;
-
+```c
 
 ## Design Principles
 
